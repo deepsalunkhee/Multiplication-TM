@@ -68,7 +68,7 @@ The Turing machine transitions between states according to the following rules:
 
 For example, if \( n = 3 \) and \( m = 2 \), the program will execute the Turing machine to compute \( 3 \times 2 \), producing the following output:
 
-'''
+```console
 Please input n : 3
 Please input m : 2
 
@@ -812,6 +812,5 @@ Tape number : 105
 Results below
 -------------
 Number of tapes produced: 105
-Time elapsed: 0.18830537796020508
-
-'''
+Time elapsed: 0.22149658203125
+```
