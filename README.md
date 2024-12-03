@@ -1,3 +1,6 @@
+### Note:
+This was a my Semester 6 SPCC lab work, and I am not planning to make any further changes here so I am archiving this repo ✌🏽. Enjoy !
+
 # Unary Multiplication Turing Machine
 
 This Python program simulates a Turing machine capable of multiplying two unary numbers represented by strings of 1s. The program takes two unary numbers \( n \) and \( m \) as input and demonstrates the step-by-step execution of the Turing machine, printing the contents of the tape after each step.
